@@ -1,0 +1,16 @@
+
+Object-oriented Programing (OOP) is a programing paradigm centered around objects rather than functions.
+ * Benefits of OOP *
+
+ 1. Encapsulation: Reduce complexity + increase reusability
+ 2. Abtraction: Reduce complexity + isolate impact of changes
+ 3. Inheritance: Eliminate redundant code
+ 4. Polymorphism: Refactor ugly switch/case statements
+
+                                            *** Course Outline ***
+                1. Objects 
+                2. Prototypes
+                3. Prototpical Inheritance
+                4. ES6 classes
+                5. ES6 Tooling
+                    ** classes are used for the items above since ECMAscript 6/ 2015 **
